@@ -1,8 +1,4 @@
-//////
-.//////
-.../////
-
-
+#Mailwizz Integration into OptimizePress 
 
 To integrate MailWizz into OptimizePress , Do the three steps :
 
