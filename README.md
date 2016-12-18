@@ -6,9 +6,9 @@ To integrate MailWizz into OptimizePress , Do the three steps :
 
 + Not all the files in lib are new files , copy the following : 
 
-	FILE 	  --  lib\modules\email\provider\MailWizz.php
-	FILE 	  --  lib\tpl\sections\email_marketing_services\mailwizz.php
-	DIRECTORY --  vendor\MailWizz
+		FILE 	  --  lib\modules\email\provider\MailWizz.php
+		FILE 	  --  lib\tpl\sections\email_marketing_services\mailwizz.php
+		DIRECTORY --  vendor\MailWizz
 
 2- Adjust the following files :
 
