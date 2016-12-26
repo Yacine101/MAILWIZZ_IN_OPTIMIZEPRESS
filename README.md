@@ -1,6 +1,6 @@
 #Mailwizz Integration into OptimizePress 
 
-![Alt text](/images/MailWizz.png?raw=true "LOGO")
+![Alt text](/MAILWIZZ.png?raw=true "LOGO")
 
 To integrate MailWizz into OptimizePress , Do the three steps :
 
